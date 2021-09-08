@@ -1,0 +1,40 @@
+.section1 {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/images.jpg);
+    position: relative;
+    background-size: cover;
+}
+
+nav{
+   height: 95px;
+    width: 100%;
+    position: absolute;
+}
+.section1 nav ul li {
+    padding-left: 20px;
+    list-style: none;
+    display: inline-block;
+    margin-left: -5px;
+    margin-top: 20px;
+   
+}
+.section1 nav ul li a{
+    color: white;}
+.section1 .logo{
+    margin-top: 20px;
+  color: white;
+}
+.section1 .logo a{
+  color: white;
+    font-size: 25px;
+}
+.box{
+    height: 500px;
+    width: 350px;
+    margin: 20px auto;
+}
+.slide-item{
+    width: 100%;
+    height: 500px;
+}
